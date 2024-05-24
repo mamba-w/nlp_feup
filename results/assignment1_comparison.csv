@@ -1,0 +1,4 @@
+Model,Columns,Feature Representation,F1-score,Accuracy,Precision,Recall
+VADER,combined_text,N/A,0.7235494880546075,0.595,0.572972972972973,0.9814814814814815
+Multi-Layer Perceptron,"headline_embeddings, synopsis_embeddings",Word2Vec FinText AI,0.7513226840538036,0.755,0.7585976046701693,0.7513405583173025
+Loughran-McDonald,combined_text,N/A,0.7345454545454545,0.635,0.6047904191616766,0.9351851851851852

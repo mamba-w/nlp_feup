@@ -1,0 +1,2 @@
+file name,file size,number of words,% negative,% positive,% uncertainty,% litigious,% strong modal,% weak modal,% constraining,# of alphabetic,# of digits,# of numbers,avg # of syllables per word,average word length,vocabulary
+Data/Fin_Cleaned.csv,991089,132340,1.7424814870787366,1.2475442043222005,0.7767870636239989,0.3075411818044431,0.4488438869578359,0.41106241499168805,0.15943781169714372,740297,39609,11673,1.5763412422547982,4.864349403052743,6579
